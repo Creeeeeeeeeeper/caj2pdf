@@ -8,6 +8,7 @@
 
 使用程序时，请**不要重命名**caj2pdf.exe同目录下的t1.exe和t2.exe也不要移动位置！
 
+目前的bug，pdf会被转换成pdf，然后在尾部加上.pdf的后缀，因为我没有对文件类型做进一步的限制（1.pdf会被成功的转换成1.pdf.pdf）
 <br>
 <br>
 <br>
@@ -24,4 +25,11 @@ There are still many areas that are not satisfactory. Please bear with me. **Any
 
 When using the program, please **do not rename** t1.exe and t2.exe in the same directory as caj2pdf.exe, and do not move them!
 
-![2025-04-04_17-48-23](https://github.com/user-attachments/assets/fc89393a-bad3-4792-b544-52bbfad2841e)
+Currently, there is a bug where PDFs are converted into PDFs again and then have a .pdf suffix appended to the end. This is because I haven't further restricted the file types (for example, 1.pdf will be successfully converted into 1.pdf.pdf).
+
+
+没有后缀也能够转换
+
+![PixPin_2025-04-04_19-09-13](https://github.com/user-attachments/assets/5e7b89ef-4398-43fc-9fc2-b98a1627feb8)
+
+
